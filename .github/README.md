@@ -1,3 +1,7 @@
+#### Written in 1997.
+
+[Original archive](https://defacto2.net/f/a41fcb8)
+
 ```
 ;***************************************************************
 ;*              Generic Intelligent Byte Patcher               *
@@ -9,5 +13,3 @@
 ;*                                                             *
 ;***************************************************************
 ```
-
-[Original archive](https://defacto2.net/f/a41fcb8)
